@@ -1,11 +1,11 @@
-# Tulisno
-<h1 align="center">Tulisno</h1>
+# Kasoh.ID
+<h1 align="center">Kasoh.ID</h1>
 
 <p>
- Tulisno is a website for generating writings into books.
+ Kasoh.ID is a website for generating writings into books.
 </p>
-Demo: http://tulisno.vercel.app/
+Demo: http://kasohv1.vercel.app/
 <br>
 
-[![Tulisno Preview](https://i.imgur.com/GQh7FDe.png)]
+[![Kasoh.ID Preview](https://i.imgur.com/GQh7FDe.png)]
 #  Kasoh.ID
