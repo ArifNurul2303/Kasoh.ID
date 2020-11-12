@@ -7,5 +7,5 @@
 Demo: http://kasohv1.vercel.app/
 <br>
 
-[![Kasoh.ID Preview](https://i.imgur.com/GQh7FDe.png)]
+
 #  Kasoh.ID
